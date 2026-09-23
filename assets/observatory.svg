@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="328" viewBox="0 0 960 328" role="img" aria-labelledby="title desc">
+  <title id="title">Follow the system</title>
+  <desc id="desc">A decorative astronomical instrument connects three areas of Mehdi Bahi's work: applications, systems, and agent workflows. This is an illustration, not a chart of contribution data.</desc>
+  <style>
+    :root { --paper:#101219; --ink:#eeede8; --muted:#a8abb6; --rule:#343846; --brass:#d4ad72; --faint:#222735; --serif:Georgia,'Times New Roman',serif; --mono:Consolas,'Liberation Mono',monospace; }
+    .paper{fill:var(--paper)} .ink{fill:var(--ink)} .muted{fill:var(--muted)} .brass{fill:var(--brass)}
+    .rule{fill:none;stroke:var(--rule);stroke-width:1} .faint{fill:none;stroke:var(--faint);stroke-width:1}
+    .trace{fill:none;stroke:var(--brass);stroke-width:1.25} .label{font:12px var(--mono);letter-spacing:1.4px}
+    .display{font:56px var(--serif);letter-spacing:-1.6px} .body{font:17px var(--mono)}
+    .arrival{animation:arrive 1.6s cubic-bezier(.16,1,.3,1) both}
+    @keyframes arrive{from{opacity:.2}to{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.arrival{animation:none}}
+  </style>
+  <rect class="paper" width="960" height="328" rx="4"/>
+  <path class="rule" d="M32 30H928M32 296H928"/>
+  <path class="trace" d="M32 30H81"/>
+  <text class="muted label" x="34" y="62">SOFTWARE / UNDER THE SURFACE</text>
+  <text class="ink display" x="32" y="139">Follow</text>
+  <text class="ink display" x="32" y="197">the system.</text>
+  <text class="muted body" x="34" y="246">Build. Debug. Review. Explain.</text>
+  <g transform="translate(652 165)">
+    <circle class="faint" r="116"/><circle class="rule" r="83"/><circle class="faint" r="44"/>
+    <path class="faint" d="M-133 0H133M0-126V126M-94-94 94 94M-94 94 94-94"/>
+    <path class="rule" d="M-121-7V7M121-7V7M-7-121H7M-7 121H7"/>
+    <ellipse class="rule" rx="116" ry="43" transform="rotate(-32)"/>
+    <path class="trace arrival" d="M-75 36-34-69 53-35 78 79-75 36"/>
+    <path class="rule" d="M-34-69 0 0 78 79M0 0 53-35M0 0-75 36"/>
+    <circle class="brass" r="4"/><circle class="paper" r="1.5"/>
+    <g class="arrival"><circle class="brass" cx="-34" cy="-69" r="3.5"/><circle class="ink" cx="53" cy="-35" r="3"/><circle class="brass" cx="78" cy="79" r="3.5"/><circle class="ink" cx="-75" cy="36" r="3"/></g>
+    <circle class="muted" cx="-95" cy="-58" r="1.2"/><circle class="muted" cx="103" cy="-70" r="1"/><circle class="muted" cx="-41" cy="98" r="1.1"/>
+  </g>
+  <path class="rule" d="M618 96 584 77H482M705 130 771 96H909M730 244 794 264H910"/>
+  <text class="muted label" x="482" y="66">SYSTEMS</text>
+  <text class="muted label" x="786" y="85">APPLICATIONS</text>
+  <text class="muted label" x="781" y="284">AGENT WORKFLOWS</text>
+  <text class="muted label" x="34" y="318">MEHDI BAHI</text>
+  <text class="muted label" x="928" y="318" text-anchor="end">ENSA KÉNITRA</text>
+</svg>
