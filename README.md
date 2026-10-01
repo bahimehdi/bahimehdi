@@ -16,11 +16,11 @@ I build full-stack applications, work with Unix systems and databases, and explo
 
 ### Programming languages
 
-![C](./assets/badges/c.svg) ![C++](./assets/badges/cpp.svg) ![Java](./assets/badges/java.svg) ![Python](./assets/badges/python.svg) ![C#](./assets/badges/csharp.svg) ![JavaScript](./assets/badges/javascript.svg) ![TypeScript](./assets/badges/typescript.svg) ![Bash](./assets/badges/bash.svg) ![PHP](./assets/badges/php.svg) ![R](./assets/badges/r.svg) ![Dart](./assets/badges/dart.svg) ![SQL](./assets/badges/sql.svg)
+![C](./assets/badges/c.svg) ![C++](./assets/badges/cpp.svg) ![Java](./assets/badges/java.svg) ![Python](./assets/badges/python.svg) ![C#](./assets/badges/csharp.svg) ![JavaScript](./assets/badges/javascript.svg) ![TypeScript](./assets/badges/typescript.svg) ![Bash](./assets/badges/bash.svg) ![PHP](./assets/badges/php.svg) ![R](./assets/badges/r.svg) ![SQL](./assets/badges/sql.svg)
 
 ### Application development
 
-![Spring Boot](./assets/badges/spring-boot.svg) ![ASP.NET Core](./assets/badges/asp-net-core.svg) ![FastAPI](./assets/badges/fastapi.svg) ![Laravel](./assets/badges/laravel.svg) ![React](./assets/badges/react.svg) ![Angular](./assets/badges/angular.svg) ![React Native](./assets/badges/react-native.svg) ![Flutter](./assets/badges/flutter.svg) ![Vite](./assets/badges/vite.svg)
+![Spring Boot](./assets/badges/spring-boot.svg) ![ASP.NET Core](./assets/badges/asp-net-core.svg) ![FastAPI](./assets/badges/fastapi.svg) ![Laravel](./assets/badges/laravel.svg) ![React](./assets/badges/react.svg) ![Angular](./assets/badges/angular.svg) ![React Native](./assets/badges/react-native.svg) ![Vite](./assets/badges/vite.svg)
 
 ### Databases
 
