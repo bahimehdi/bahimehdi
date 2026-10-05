@@ -20,7 +20,7 @@ I build full-stack applications, work with Unix systems and databases, and explo
 
 ### Application development
 
-![Spring Boot](./assets/badges/spring-boot.svg) ![ASP.NET Core](./assets/badges/asp-net-core.svg) ![FastAPI](./assets/badges/fastapi.svg) ![Laravel](./assets/badges/laravel.svg) ![React](./assets/badges/react.svg) ![Angular](./assets/badges/angular.svg) ![React Native](./assets/badges/react-native.svg) ![Vite](./assets/badges/vite.svg)
+![Spring Boot](./assets/badges/spring-boot.svg) ![Node.js](./assets/badges/nodejs.svg) ![ASP.NET Core](./assets/badges/asp-net-core.svg) ![FastAPI](./assets/badges/fastapi.svg) ![Laravel](./assets/badges/laravel.svg) ![React](./assets/badges/react.svg) ![Angular](./assets/badges/angular.svg) ![React Native](./assets/badges/react-native.svg) ![Vite](./assets/badges/vite.svg)
 
 ### Databases
 
@@ -35,13 +35,6 @@ I build full-stack applications, work with Unix systems and databases, and explo
 ![Pandas](./assets/badges/pandas.svg) ![NumPy](./assets/badges/numpy.svg) ![scikit-learn](./assets/badges/scikit-learn.svg) ![XGBoost](./assets/badges/xgboost.svg) ![Power BI](./assets/badges/power-bi.svg) ![Power Query](./assets/badges/power-query.svg)
 
 **Also worked with:** Unix processes, pipes and signals; TCP/UDP sockets; Cisco routing and switching; REST APIs, OpenAPI, JWT and OAuth2; relational modeling and Entity Framework Core.
-
-## Currently exploring
-
-- Spring Boot, React, and TypeScript.
-- Distributed systems with Kafka, PostgreSQL, and Redis.
-- Transactions, Saga, and Outbox patterns.
-- DevOps, containers, cloud, and observability.
 
 ## Agentic development
 
