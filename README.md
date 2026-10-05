@@ -20,7 +20,7 @@ I build full-stack applications, work with Unix systems and databases, and explo
 
 ### Application development
 
-![Spring Boot](./assets/badges/spring-boot.svg) ![ASP.NET Core](./assets/badges/asp-net-core.svg) ![FastAPI](./assets/badges/fastapi.svg) ![Laravel](./assets/badges/laravel.svg) ![React](./assets/badges/react.svg) ![Angular](./assets/badges/angular.svg) ![React Native](./assets/badges/react-native.svg) ![Vite](./assets/badges/vite.svg)
+![Spring Boot](./assets/badges/spring-boot.svg) ![Node.js](./assets/badges/nodejs.svg) ![ASP.NET Core](./assets/badges/asp-net-core.svg) ![FastAPI](./assets/badges/fastapi.svg) ![Laravel](./assets/badges/laravel.svg) ![React](./assets/badges/react.svg) ![Angular](./assets/badges/angular.svg) ![React Native](./assets/badges/react-native.svg) ![Vite](./assets/badges/vite.svg)
 
 ### Databases
 
@@ -35,6 +35,16 @@ I build full-stack applications, work with Unix systems and databases, and explo
 ![Pandas](./assets/badges/pandas.svg) ![NumPy](./assets/badges/numpy.svg) ![scikit-learn](./assets/badges/scikit-learn.svg) ![XGBoost](./assets/badges/xgboost.svg) ![Power BI](./assets/badges/power-bi.svg) ![Power Query](./assets/badges/power-query.svg)
 
 **Also worked with:** Unix processes, pipes and signals; TCP/UDP sockets; Cisco routing and switching; REST APIs, OpenAPI, JWT and OAuth2; relational modeling and Entity Framework Core.
+
+## Selected project
+
+### LazyDeals
+
+<img src="./assets/lazydeals-logo.png" alt="LazyDeals logo with its two mascots" width="300">
+
+I built LazyDeals to help PC players track game prices. It combines a shared watchlist with multi-store and regional Steam pricing, Steam wishlist import, budget bundles, and reported 100%-off offers. Background checks notify users when a saved price target is met.
+
+[Website](https://lazydeals.tech/) · [Chrome Web Store](https://chromewebstore.google.com/detail/lazydeals/dlcikhpiigmpciddcdjclepnppcachni) · [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/lazydeals/hldbfjjaedkheeglkflhnkkppgeiihhm)
 
 ## Agentic development
 
