@@ -12,6 +12,16 @@
 
 I build full-stack applications, work with Unix systems and databases, and explore agentic development. I care about understanding what I build well enough to debug it, review it, and explain it.
 
+## Featured project: LazyDeals
+
+<img src="./assets/lazydeals-logo.png" alt="LazyDeals logo with its two mascots" width="420">
+
+LazyDeals is a browser extension I built to help PC players track game prices. It combines a shared watchlist with multi-store and regional Steam pricing, Steam wishlist import, budget bundles, and reported 100%-off offers. Background checks notify you when a saved price target is met.
+
+[Get LazyDeals for Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/lazydeals/hldbfjjaedkheeglkflhnkkppgeiihhm)
+
+<!-- Add the landing-page and Chrome Web Store links here once they are public and verified. -->
+
 ## Skills & technologies
 
 ### Programming languages
