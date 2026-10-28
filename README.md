@@ -18,27 +18,27 @@ I build full-stack applications, work with Unix systems and databases, and explo
 
 ### Programming languages
 
-![C](./assets/badges/c.svg) ![C++](./assets/badges/cpp.svg) ![Java](./assets/badges/java.svg) ![Python](./assets/badges/python.svg) ![C#](./assets/badges/csharp.svg) ![JavaScript](./assets/badges/javascript.svg) ![TypeScript](./assets/badges/typescript.svg) ![Bash](./assets/badges/bash.svg) ![PHP](./assets/badges/php.svg) ![R](./assets/badges/r.svg) ![SQL](./assets/badges/sql.svg) ![PL/SQL](./assets/badges/plsql.svg)
+![C](./assets/badges/c.svg?v=20261028b) ![C++](./assets/badges/cpp.svg?v=20261028b) ![Java](./assets/badges/java.svg?v=20261028b) ![Python](./assets/badges/python.svg?v=20261028b) ![C#](./assets/badges/csharp.svg?v=20261028b) ![JavaScript](./assets/badges/javascript.svg?v=20261028b) ![TypeScript](./assets/badges/typescript.svg?v=20261028b) ![Bash](./assets/badges/bash.svg?v=20261028b) ![PHP](./assets/badges/php.svg?v=20261028b) ![R](./assets/badges/r.svg?v=20261028b) ![SQL](./assets/badges/sql.svg?v=20261028b) ![PL/SQL](./assets/badges/plsql.svg?v=20261028b)
 
 ### Application development
 
-![Spring Boot](./assets/badges/spring-boot.svg) ![Node.js](./assets/badges/nodejs.svg) ![ASP.NET Core](./assets/badges/asp-net-core.svg) ![FastAPI](./assets/badges/fastapi.svg) ![Flask](./assets/badges/flask.svg) ![Laravel](./assets/badges/laravel.svg) ![React](./assets/badges/react.svg) ![Angular](./assets/badges/angular.svg) ![React Native](./assets/badges/react-native.svg) ![Vite](./assets/badges/vite.svg)
+![Spring Boot](./assets/badges/spring-boot.svg?v=20261028b) ![Node.js](./assets/badges/nodejs.svg?v=20261028b) ![ASP.NET Core](./assets/badges/asp-net-core.svg?v=20261028b) ![FastAPI](./assets/badges/fastapi.svg?v=20261028b) ![Flask](./assets/badges/flask.svg?v=20261028b) ![Laravel](./assets/badges/laravel.svg?v=20261028b) ![React](./assets/badges/react.svg?v=20261028b) ![Angular](./assets/badges/angular.svg?v=20261028b) ![React Native](./assets/badges/react-native.svg?v=20261028b) ![Vite](./assets/badges/vite.svg?v=20261028b)
 
 ### Databases
 
-![PostgreSQL](./assets/badges/postgresql.svg) ![MySQL](./assets/badges/mysql.svg) ![SQLite](./assets/badges/sqlite.svg) ![Redis](./assets/badges/redis.svg) ![SQL Server](./assets/badges/sql-server.svg) ![Oracle](./assets/badges/oracle.svg) ![MongoDB](./assets/badges/mongodb.svg)
+![PostgreSQL](./assets/badges/postgresql.svg?v=20261028b) ![MySQL](./assets/badges/mysql.svg?v=20261028b) ![SQLite](./assets/badges/sqlite.svg?v=20261028b) ![Redis](./assets/badges/redis.svg?v=20261028b) ![SQL Server](./assets/badges/sql-server.svg?v=20261028b) ![Oracle](./assets/badges/oracle.svg?v=20261028b) ![MongoDB](./assets/badges/mongodb.svg?v=20261028b)
 
 ### Systems & tools
 
-![Linux](./assets/badges/linux.svg) ![Ubuntu](./assets/badges/ubuntu.svg) ![Git](./assets/badges/git.svg) ![Docker](./assets/badges/docker.svg) ![Docker Compose](./assets/badges/docker-compose.svg) ![Jenkins](./assets/badges/jenkins.svg) ![GCC](./assets/badges/gcc.svg) ![Make](./assets/badges/make.svg) ![Valgrind](./assets/badges/valgrind.svg) ![Android Studio](./assets/badges/android-studio.svg)
+![Linux](./assets/badges/linux.svg?v=20261028b) ![Ubuntu](./assets/badges/ubuntu.svg?v=20261028b) ![Git](./assets/badges/git.svg?v=20261028b) ![Docker](./assets/badges/docker.svg?v=20261028b) ![Docker Compose](./assets/badges/docker-compose.svg?v=20261028b) ![Jenkins](./assets/badges/jenkins.svg?v=20261028b) ![GCC](./assets/badges/gcc.svg?v=20261028b) ![Make](./assets/badges/make.svg?v=20261028b) ![Valgrind](./assets/badges/valgrind.svg?v=20261028b) ![Android Studio](./assets/badges/android-studio.svg?v=20261028b)
 
 ### Data & BI
 
-![Pandas](./assets/badges/pandas.svg) ![NumPy](./assets/badges/numpy.svg) ![scikit-learn](./assets/badges/scikit-learn.svg) ![XGBoost](./assets/badges/xgboost.svg) ![Power BI](./assets/badges/power-bi.svg) ![Power Query](./assets/badges/power-query.svg)
+![Pandas](./assets/badges/pandas.svg?v=20261028b) ![NumPy](./assets/badges/numpy.svg?v=20261028b) ![scikit-learn](./assets/badges/scikit-learn.svg?v=20261028b) ![XGBoost](./assets/badges/xgboost.svg?v=20261028b) ![Power BI](./assets/badges/power-bi.svg?v=20261028b) ![Power Query](./assets/badges/power-query.svg?v=20261028b)
 
 ### Modeling & extension development
 
-![UML](./assets/badges/uml.svg) ![BPMN](./assets/badges/bpmn.svg) ![Chrome Extensions (Manifest V3)](./assets/badges/chrome-extensions-mv3.svg)
+![UML](./assets/badges/uml.svg?v=20261028b) ![BPMN](./assets/badges/bpmn.svg?v=20261028b) ![Chrome Extensions (Manifest V3)](./assets/badges/chrome-extensions-mv3.svg?v=20261028b)
 
 **Also worked with:** Unix processes, pipes and signals; TCP/UDP sockets; Cisco routing and switching; REST APIs, OpenAPI, JWT and OAuth2; relational modeling and Entity Framework Core.
 
