@@ -6,6 +6,8 @@
 
 [Email](mailto:mr.mehdi.bahi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bahimehdi) · [GitHub](https://github.com/bahimehdi)
 
+<img src="https://komarev.com/ghpvc/?username=bahimehdi&amp;label=PROFILE%20VIEWS&amp;color=D4AD72&amp;style=flat-square" alt="Profile views" /> <img src="https://img.shields.io/github/followers/bahimehdi?label=FOLLOWERS&amp;color=D4AD72&amp;labelColor=101219&amp;style=flat-square" alt="GitHub followers" />
+
 ![Follow the system. Build with intent. Verify the result. A slow three-scene observatory animation.](./assets/observatory.gif)
 
 </div>
@@ -16,23 +18,27 @@ I build full-stack applications, work with Unix systems and databases, and explo
 
 ### Programming languages
 
-![C](./assets/badges/c.svg) ![C++](./assets/badges/cpp.svg) ![Java](./assets/badges/java.svg) ![Python](./assets/badges/python.svg) ![C#](./assets/badges/csharp.svg) ![JavaScript](./assets/badges/javascript.svg) ![TypeScript](./assets/badges/typescript.svg) ![Bash](./assets/badges/bash.svg) ![PHP](./assets/badges/php.svg) ![R](./assets/badges/r.svg) ![SQL](./assets/badges/sql.svg)
+![C](./assets/badges/c.svg) ![C++](./assets/badges/cpp.svg) ![Java](./assets/badges/java.svg) ![Python](./assets/badges/python.svg) ![C#](./assets/badges/csharp.svg) ![JavaScript](./assets/badges/javascript.svg) ![TypeScript](./assets/badges/typescript.svg) ![Bash](./assets/badges/bash.svg) ![PHP](./assets/badges/php.svg) ![R](./assets/badges/r.svg) ![SQL](./assets/badges/sql.svg) ![PL/SQL](./assets/badges/plsql.svg)
 
 ### Application development
 
-![Spring Boot](./assets/badges/spring-boot.svg) ![Node.js](./assets/badges/nodejs.svg) ![ASP.NET Core](./assets/badges/asp-net-core.svg) ![FastAPI](./assets/badges/fastapi.svg) ![Laravel](./assets/badges/laravel.svg) ![React](./assets/badges/react.svg) ![Angular](./assets/badges/angular.svg) ![React Native](./assets/badges/react-native.svg) ![Vite](./assets/badges/vite.svg)
+![Spring Boot](./assets/badges/spring-boot.svg) ![Node.js](./assets/badges/nodejs.svg) ![ASP.NET Core](./assets/badges/asp-net-core.svg) ![FastAPI](./assets/badges/fastapi.svg) ![Flask](./assets/badges/flask.svg) ![Laravel](./assets/badges/laravel.svg) ![React](./assets/badges/react.svg) ![Angular](./assets/badges/angular.svg) ![React Native](./assets/badges/react-native.svg) ![Vite](./assets/badges/vite.svg)
 
 ### Databases
 
-![PostgreSQL](./assets/badges/postgresql.svg) ![MySQL](./assets/badges/mysql.svg) ![SQLite](./assets/badges/sqlite.svg) ![Redis](./assets/badges/redis.svg) ![SQL Server](./assets/badges/sql-server.svg) ![Oracle](./assets/badges/oracle.svg)
+![PostgreSQL](./assets/badges/postgresql.svg) ![MySQL](./assets/badges/mysql.svg) ![SQLite](./assets/badges/sqlite.svg) ![Redis](./assets/badges/redis.svg) ![SQL Server](./assets/badges/sql-server.svg) ![Oracle](./assets/badges/oracle.svg) ![MongoDB](./assets/badges/mongodb.svg)
 
 ### Systems & tools
 
-![Linux](./assets/badges/linux.svg) ![Ubuntu](./assets/badges/ubuntu.svg) ![Git](./assets/badges/git.svg) ![Docker](./assets/badges/docker.svg) ![GCC](./assets/badges/gcc.svg) ![Make](./assets/badges/make.svg) ![Valgrind](./assets/badges/valgrind.svg) ![Android Studio](./assets/badges/android-studio.svg)
+![Linux](./assets/badges/linux.svg) ![Ubuntu](./assets/badges/ubuntu.svg) ![Git](./assets/badges/git.svg) ![Docker](./assets/badges/docker.svg) ![Docker Compose](./assets/badges/docker-compose.svg) ![Jenkins](./assets/badges/jenkins.svg) ![GCC](./assets/badges/gcc.svg) ![Make](./assets/badges/make.svg) ![Valgrind](./assets/badges/valgrind.svg) ![Android Studio](./assets/badges/android-studio.svg)
 
 ### Data & BI
 
 ![Pandas](./assets/badges/pandas.svg) ![NumPy](./assets/badges/numpy.svg) ![scikit-learn](./assets/badges/scikit-learn.svg) ![XGBoost](./assets/badges/xgboost.svg) ![Power BI](./assets/badges/power-bi.svg) ![Power Query](./assets/badges/power-query.svg)
+
+### Modeling & extension development
+
+![UML](./assets/badges/uml.svg) ![BPMN](./assets/badges/bpmn.svg) ![Chrome Extensions (Manifest V3)](./assets/badges/chrome-extensions-mv3.svg)
 
 **Also worked with:** Unix processes, pipes and signals; TCP/UDP sockets; Cisco routing and switching; REST APIs, OpenAPI, JWT and OAuth2; relational modeling and Entity Framework Core.
 
