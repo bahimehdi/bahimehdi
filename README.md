@@ -62,6 +62,8 @@ Repository rules, reusable skills, and agent harnesses. Planning, implementation
 
 ## GitHub activity
 
+[![Mehdi Bahi's daily GitHub contributions, shaded at 1–2, 3–5, 6–9, and 10+ contributions](./assets/contributions.svg)](https://github.com/bahimehdi)
+
 [![Mehdi Bahi's GitHub contribution streak](https://streak-stats.demolab.com?user=bahimehdi&background=101219&ring=D4AD72&fire=D4AD72&currStreakNum=EEEDE8&sideNums=EEEDE8&currStreakLabel=D4AD72&sideLabels=A8ABB6&dates=A8ABB6&stroke=343846&hide_border=true)](https://github.com/bahimehdi)
 
 </div>
